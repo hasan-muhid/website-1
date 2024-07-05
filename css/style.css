@@ -63,3 +63,9 @@ div a{
     color: antiquewhite;
     
 }
+tbody td{
+    font-weight: 300;
+}
+thead td{
+    color: purple;
+}
